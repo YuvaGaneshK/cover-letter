@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    color: rgb(8, 60, 106);
+ 
+    font-size: 1.3em;
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 20px;
+  }
+  
+  p {
+    font-size: 1.2em;
+    line-height: 1.5em;
+    margin: 20px;
+  }
+  
+  .signature {
+    text-align: right;
+    margin-right: 50px;
+  }
+  
+  .contact {
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 20px;
+  }
+  
+  .contact p {
+    margin: 5px;
+  }
